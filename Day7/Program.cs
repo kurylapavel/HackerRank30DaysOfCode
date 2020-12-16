@@ -6,15 +6,14 @@ namespace Day7
     {
         static void Main(string[] args)
         {
-            int wordsCount = Convert.ToInt32(Console.ReadLine());
-            string word = "";
-            for (int i = 0; i < wordsCount; i++)
+            int n = Convert.ToInt32(Console.ReadLine());
+
+            int[] arr = Array.ConvertAll(Console.ReadLine().Split(' '), arrTemp => Convert.ToInt32(arrTemp));
+
+            for (int i = n; i > 0; i--)
             {
-                word += Console.ReadLine();
-                word += "^";
+                Console.Write($"{arr[i - 1]} ");
             }
-            Solution solution = new Solution(word);
-            solution.Print();
         }
     }
 }

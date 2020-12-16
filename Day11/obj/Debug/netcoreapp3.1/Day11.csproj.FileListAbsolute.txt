@@ -1,0 +1,13 @@
+C:\Users\wwg\Desktop\учеба\C#\HackerRank30DaysOfCode\Day11\obj\Debug\netcoreapp3.1\Day11.csprojAssemblyReference.cache
+C:\Users\wwg\Desktop\учеба\C#\HackerRank30DaysOfCode\Day11\obj\Debug\netcoreapp3.1\Day11.csproj.CoreCompileInputs.cache
+C:\Users\wwg\Desktop\учеба\C#\HackerRank30DaysOfCode\Day11\obj\Debug\netcoreapp3.1\Day11.AssemblyInfoInputs.cache
+C:\Users\wwg\Desktop\учеба\C#\HackerRank30DaysOfCode\Day11\obj\Debug\netcoreapp3.1\Day11.AssemblyInfo.cs
+C:\Users\wwg\Desktop\учеба\C#\HackerRank30DaysOfCode\Day11\bin\Debug\netcoreapp3.1\Day11.exe
+C:\Users\wwg\Desktop\учеба\C#\HackerRank30DaysOfCode\Day11\bin\Debug\netcoreapp3.1\Day11.deps.json
+C:\Users\wwg\Desktop\учеба\C#\HackerRank30DaysOfCode\Day11\bin\Debug\netcoreapp3.1\Day11.runtimeconfig.json
+C:\Users\wwg\Desktop\учеба\C#\HackerRank30DaysOfCode\Day11\bin\Debug\netcoreapp3.1\Day11.runtimeconfig.dev.json
+C:\Users\wwg\Desktop\учеба\C#\HackerRank30DaysOfCode\Day11\bin\Debug\netcoreapp3.1\Day11.dll
+C:\Users\wwg\Desktop\учеба\C#\HackerRank30DaysOfCode\Day11\bin\Debug\netcoreapp3.1\Day11.pdb
+C:\Users\wwg\Desktop\учеба\C#\HackerRank30DaysOfCode\Day11\obj\Debug\netcoreapp3.1\Day11.dll
+C:\Users\wwg\Desktop\учеба\C#\HackerRank30DaysOfCode\Day11\obj\Debug\netcoreapp3.1\Day11.pdb
+C:\Users\wwg\Desktop\учеба\C#\HackerRank30DaysOfCode\Day11\obj\Debug\netcoreapp3.1\Day11.genruntimeconfig.cache
